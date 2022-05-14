@@ -13,7 +13,7 @@ import math
 
 
 
-dataset_total = pd.read_csv(r'C:\Users\Alireza\AppData\Roaming\MetaQuotes\Terminal\63603D13555081059CD774AC70BBC63B\MQL4\Files\EURUSD1440.csv', sep = ',')
+dataset_total = pd.read_csv(r'C:\Files\EURUSD1440.csv', sep = ',')
 dataset_total.head()
 
 
