@@ -1,7 +1,7 @@
 ﻿//+------------------------------------------------------------------+
 //|                                                     AgetData.mq4 |
 //|                                          Copyright © 2005,fxpars |
-//|                                  |
+//|                                                                  |
 //+------------------------------------------------------------------+
 #property copyright "Copyright © 2005, fxpars"
 #property link      "http://forum.fxpars.com/forum/"
